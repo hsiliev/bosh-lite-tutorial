@@ -12,7 +12,7 @@ You need to install:
 Clone the project and start the VM with
 
 ```
-git clone
+git clone https://github.com/hsiliev/bosh-lite-tutorial.git
 cd bosh-lite-tutorial
 vagrant up
 ```

@@ -16,3 +16,8 @@ git clone https://github.com/hsiliev/bosh-lite-tutorial.git
 cd bosh-lite-tutorial
 vagrant up
 ```
+
+If the provisioning scripts fail you can resume them with:
+```
+vagrant provision
+```

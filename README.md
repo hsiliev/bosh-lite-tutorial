@@ -1,5 +1,5 @@
 # BOSH Lite tutorial
-This repo provides an easy way to try out BOSH (lite) by installing the [GOGS BOSH Release](https://github.com/cloudfoundry-community/gogs-boshrelease).
+This repo provides an easy way to try out [BOSH lite](https://github.com/cloudfoundry/bosh-lite) by installing the [GOGS BOSH Release](https://github.com/cloudfoundry-community/gogs-boshrelease).
 
 # Prerequisites
 

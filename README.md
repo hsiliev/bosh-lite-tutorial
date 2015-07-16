@@ -1,4 +1,5 @@
 # BOSH Lite tutorial
+This repo provides an easy way to try out BOSH (lite) by installing the [GOGS BOSH Release](https://github.com/cloudfoundry-community/gogs-boshrelease).
 
 # Prerequisites
 
@@ -21,3 +22,7 @@ If the provisioning scripts fail you can resume them with:
 ```
 vagrant provision
 ```
+
+# Tutorial
+
+Follow the steps described in the [Powerpoint presentation](https://github.com/hsiliev/bosh-lite-tutorial/blob/master/Tutorial.pptx)

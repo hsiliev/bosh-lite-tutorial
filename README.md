@@ -3,7 +3,7 @@ This repo provides an easy way to try out [BOSH lite](https://github.com/cloudfo
 
 # Prerequisites
 
-You need to install:
+You need:
 * git
 * [VirtualBox](https://www.virtualbox.org)
 * [Vagrant](https://www.vagrantup.com)

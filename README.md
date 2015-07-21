@@ -7,6 +7,7 @@ You need to install:
 * git
 * [VirtualBox](https://www.virtualbox.org)
 * [Vagrant](https://www.vagrantup.com)
+* internet access without proxy 
 
 # Start the VM
 

@@ -25,4 +25,4 @@ vagrant provision
 
 # Tutorial
 
-Follow the steps described in the [Powerpoint presentation](https://github.com/hsiliev/bosh-lite-tutorial/blob/master/Tutorial.pptx?raw=true)
+Follow the steps described in the [Powerpoint presentation](https://github.com/hsiliev/bosh-lite-tutorial/blob/master/Tutorial.pptx?raw=true) or the [PDF](https://github.com/hsiliev/bosh-lite-tutorial/raw/master/Tutorial.pdf)

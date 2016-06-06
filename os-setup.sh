@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 set -e -x
 
-apt-get update
+apt-get -y update
 apt-get -y install vim nano curl git wget unzip
 
 if [ ! -f /usr/local/bin/spiff ]; then

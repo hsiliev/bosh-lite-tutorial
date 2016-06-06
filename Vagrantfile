@@ -3,7 +3,7 @@ Vagrant.configure('2') do |config|
   config.vm.network "forwarded_port", guest: 8080, host: 8080
 
   config.vm.provider :virtualbox do |v, override|
-    override.vm.box_version = '9000.38.0' # ci:replace
+    override.vm.box_version = '9000.126.0'
     # To use a different IP address for the bosh-lite director, uncomment this line:
     # override.vm.network :private_network, ip: '192.168.59.4', id: :local
   end

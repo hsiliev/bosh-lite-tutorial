@@ -11,5 +11,7 @@ Vagrant.configure('2') do |config|
   config.vm.provision "shell", keep_color: true, path: "os-setup.sh"
   config.vm.provision "shell", keep_color: true, privileged: false, path: "stemcell.sh"
   config.vm.provision "shell", keep_color: true, privileged: false, path: "gogs.sh"
+  config.vm.provision "shell", keep_color: true, privileged: false, path: "route-registrar.sh"
+  config.vm.provision "shell", keep_color: true, privileged: false, path: "cf.sh"
   config.vm.provision "shell", keep_color: true, privileged: false, path: "cleanup.sh"
 end
